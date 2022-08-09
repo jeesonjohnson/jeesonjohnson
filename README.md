@@ -1,5 +1,5 @@
 # Hi there! My name is Jeeson 👋
-I am a hardworking and passionate software developer, who loves working on creating new software.
+I am software engineer with a passion for creating amazing produts. 
 
 <!--
 **jeesonjohnson/jeesonjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
